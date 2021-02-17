@@ -1,0 +1,16 @@
+{
+  "name": "algs-crsr_two_sum_pairs",
+  "version": "1.0.0",
+  "description": "Find distinct pairs adding up to required sum",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "2SUM",
+    "hashtable"
+  ],
+  "author": "headcloud",
+  "license": "ISC"
+}
