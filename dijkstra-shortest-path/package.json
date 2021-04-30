@@ -1,0 +1,20 @@
+{
+  "name": "algs-crsr_dijkstra_shortest_path",
+  "version": "1.0.0",
+  "description": "\"Implementation of Dijkstra shortest path finder\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graph",
+    "shortest",
+    "path"
+  ],
+  "author": "headcloud",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "algs-crsr_medians_of_stream",
+  "version": "1.0.0",
+  "description": "Implementation of dynamic median of stream algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heap",
+    "median_maintenance"
+  ],
+  "author": "headcloud",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
